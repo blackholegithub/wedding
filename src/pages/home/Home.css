@@ -1,0 +1,6 @@
+.home-wrapper{
+    background-color: var(--bg-green);
+    min-height: 100vh;
+    position: relative;
+
+}
